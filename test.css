@@ -1,0 +1,23 @@
+h1 {
+  color: green;
+}
+
+li {
+  color: red;
+}
+
+.one {
+  margin: 30px;
+  padding: 20px;
+  color: blue;
+  border: 10px solid green;
+  border-radius: 20px;
+}
+
+.two {
+  margin: 30px;
+  padding: 20px;
+  color: blue;
+  border: 10px solid rgb(87, 24, 233);
+  border-radius: 20px;
+}
